@@ -22,7 +22,7 @@ body {
     background-color: white;
     width: 288px;
     height: 288px;
-     border-radius: 10px;
+    border-radius: 10px;
         
 }
 
@@ -32,8 +32,6 @@ body {
     border-radius: 10px;
     
 }
-
-
 
 .paragraphs p:first-child {
     font-size: 22px;
