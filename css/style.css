@@ -33,6 +33,11 @@ body {
     
 }
 
+.paragraphs {
+    box-sizing:border-box;
+    padding:0 16px;
+    
+}
 .paragraphs p:first-child {
     font-size: 22px;
     font-weight: 700;
